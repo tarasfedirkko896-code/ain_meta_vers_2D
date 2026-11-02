@@ -1,8 +1,13 @@
 {
-  "reachable_tiles": 992,
-  "stage_and_seats_reachable": true,
-  "tile_atlas_size": [
-    512,
-    128
-  ]
+  "render_matches_v23": true,
+  "collision_matches_v23": true,
+  "all_walkable_tiles_connected": true,
+  "walkable_tiles": 9222,
+  "layers": 43,
+  "foreground_tiles": 1114,
+  "walkable_foreground_tiles": 165,
+  "start_tiles": 64,
+  "max_texture_size": 2048,
+  "live_WorkAdventure_test": "not performed",
+  "source_map_sha256": "a589625f53706c30c0a5b305ae72edefc780bb363efba92668343c4c2c1cb2f3"
 }

@@ -1,0 +1,18 @@
+{
+  "ready": true,
+  "toggle": true,
+  "movement": true,
+  "free": true,
+  "initial": {
+    "x": 2320,
+    "y": 2800
+  },
+  "stageBefore": {
+    "x": 2576,
+    "y": 1328
+  },
+  "stageAfter": {
+    "x": 2576,
+    "y": 1400.0000000000027
+  }
+}
