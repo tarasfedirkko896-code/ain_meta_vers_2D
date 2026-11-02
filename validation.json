@@ -1,0 +1,8 @@
+{
+  "reachable_tiles": 992,
+  "stage_and_seats_reachable": true,
+  "tile_atlas_size": [
+    512,
+    128
+  ]
+}
